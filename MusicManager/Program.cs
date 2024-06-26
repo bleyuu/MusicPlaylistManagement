@@ -19,7 +19,7 @@ namespace MusicManager
 
             do
             {
-                Console.WriteLine("\nMy Top Song for each Genre");
+                Console.WriteLine("\nMusic Management");
                 Console.WriteLine("1. Add Song");
                 Console.WriteLine("2. Update Song");
                 Console.WriteLine("3. Delete Song");
